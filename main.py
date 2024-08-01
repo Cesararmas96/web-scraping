@@ -78,4 +78,3 @@ for i in range(cantComents):
     ig_bot.comentar()
     time.sleep(10)
 print('Finished Comments')
-msvcrt.getch()
