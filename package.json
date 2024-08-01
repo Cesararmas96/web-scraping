@@ -1,0 +1,22 @@
+{
+  "name": "comentariosbot",
+  "version": "1.0.0",
+  "description": "Instalar paquetes\r pip install -r requirements.txt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cesararmas96/comentariobot.git"
+  },
+  "author": "cesararmas96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cesararmas96/comentariobot/issues"
+  },
+  "homepage": "https://github.com/Cesararmas96/comentariobot#readme",
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  }
+}
